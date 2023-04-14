@@ -1,2 +1,2 @@
 # test
-Description of the first repository
+Description of the first repository for the IBM course
